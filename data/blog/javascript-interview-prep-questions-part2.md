@@ -3,7 +3,7 @@ title: Javascript Interview Prep Questions (Part-2)
 date: '2023-07-06'
 tags: ['Javascript', 'Interview', 'Learning']
 draft: false
-summary: A blog on arrays, prop drilling, callback hell.
+summary: A blog on arrays, prop drilling, callback hell, new keyword and arrow functions.
 images: []
 layout: PostLayout
 canonicalUrl:
