@@ -2,10 +2,10 @@ const siteMetadata = {
   title: 'Sudhakar Writes Blog',
   author: 'Sudhakar J',
   headerTitle: 'SudhakarWrites',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'A blog created to jot down notes through the learning process',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://sudhakar-writes.vercel.app/',
   siteRepo: 'https://github.com/Sudhakar7J/sudhakar-writes',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
