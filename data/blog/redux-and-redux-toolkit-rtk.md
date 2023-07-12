@@ -86,7 +86,7 @@ ReactDOM.render(
 
 ## Redux Workflow
 
-![Redux](/public/static/images/postimages/ReduxWorkFlow.png)
+![Redux](https://github.com/Sudhakar7J/sudhakar-writes/blob/live/public/static/images/postimages/ReduxWorkFlow.gif?raw=true)
 
 ## Keeping data organized
 
