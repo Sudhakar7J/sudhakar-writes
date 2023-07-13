@@ -2,7 +2,7 @@
 title: Getting Started with JS v2 by Kyle Simpson [Programming Primer]
 date: '2023-07-11'
 tags: ['Javascript', 'Kyle Simpson', 'Course', 'Frontend Masters']
-draft: true
+draft: false
 summary: Notes of Frontendmasters course on Javascript by Kyle Simpson
 images: []
 layout: PostLayout
@@ -17,7 +17,7 @@ canonicalUrl:
 
 ### 1. Values
 
--
+- ![Values](https://github.com/Sudhakar7J/sudhakar-writes/blob/live/public/static/images/postimages/JSValues.png?raw=true)
 
 ### 2. Operations
 
