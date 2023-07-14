@@ -1,5 +1,5 @@
 ---
-title: Javascript Interview Prep Questions (Part-3)
+title: Javascript Interview Prep Questions (Pt-3)
 date: '2023-07-08'
 tags: ['Javascript', 'Interview', 'Learning']
 draft: false
