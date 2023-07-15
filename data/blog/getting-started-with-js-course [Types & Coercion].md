@@ -2,7 +2,7 @@
 title: Deep Javascript Foundations by Kyle Simpson [Types & Coercion]
 date: '2023-07-13'
 tags: ['Javascript', 'Kyle Simpson', 'Course', 'Frontend Masters']
-draft: true
+draft: false
 summary: Notes on primitive types, NaN, new, coercion, booleans, equality from Frontendmasters course on Javascript by Kyle Simpson
 images: []
 layout: PostLayout
