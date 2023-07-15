@@ -2,7 +2,7 @@
 title: Deep Javascript Foundations by Kyle Simpson [Types & Coercion]
 date: '2023-07-13'
 tags: ['Javascript', 'Kyle Simpson', 'Course', 'Frontend Masters']
-draft: true
+draft: false
 summary: Notes on primitive types, NaN, new, coercion, booleans, equality from Frontendmasters course on Javascript by Kyle Simpson
 images: []
 layout: PostLayout
@@ -23,25 +23,33 @@ canonicalUrl:
 
 1. Falsy
 
+```js
 - “”
 - 0, -0
 - null
 - NaN
 - false
 - undefined
+```
 
 2. Truthy
 
+```js
 - “foo”
 - 23
 - { a:1 }
 - [1,3]
 - true
-- function(){..}
+- function()
 - ...
+```
 
 ### Equality == vs ===
 
 - == allows coercion (types different)
 
 - === disallows coercion (types same)
+
+```
+
+```
