@@ -1,5 +1,5 @@
 ---
-title: Getting Started with JS v2 by Kyle Simpson [Types & Coercion]
+title: Deep Javascript Foundations by Kyle Simpson [Types & Coercion]
 date: '2023-07-13'
 tags: ['Javascript', 'Kyle Simpson', 'Course', 'Frontend Masters']
 draft: true
@@ -15,4 +15,33 @@ canonicalUrl:
 
 #### [Types & Coercion Notes](https://frontendmasters.com/courses/getting-started-javascript-v2/primitive-types/)
 
-### Operations
+### Converting Types
+
+- The way to convert from one type to another is `coercion`.
+
+### Falsy and Truthy
+
+1. Falsy
+
+- “”
+- 0, -0
+- null
+- NaN
+- false
+- undefined
+
+2. Truthy
+
+- “foo”
+- 23
+- { a:1 }
+- [1,3]
+- true
+- function(){..}
+- ...
+
+### Equality == vs ===
+
+- == allows coercion (types different)
+
+- === disallows coercion (types same)
