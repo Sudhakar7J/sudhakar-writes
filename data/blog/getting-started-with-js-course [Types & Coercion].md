@@ -1,9 +1,9 @@
 ---
-title: Deep Javascript Foundations by Kyle Simpson [Types & Coercion]
+title: Getting Started with JS, v2 by Kyle Simpson [Types & Coercion]
 date: '2023-07-13'
 tags: ['Javascript', 'Kyle Simpson', 'Course', 'Frontend Masters']
 draft: false
-summary: Notes on primitive types, NaN, new, coercion, booleans, equality from Frontendmasters course on Javascript by Kyle Simpson
+summary: Notes on primitive types, NaN, new, coercion, booleans, equality, scope, closure, this, prototype and class from Frontendmasters course on Javascript by Kyle Simpson
 images: []
 layout: PostLayout
 canonicalUrl:
@@ -50,6 +50,28 @@ canonicalUrl:
 
 - === disallows coercion (types same)
 
-```
+### Scope
 
+- Scope: where to look for things.
+
+- **Undefined vs Undeclared** - Undefined is a variable that has been declared, but it doesn't have a value. A variable thats never been declared is undeclared.
+
+### Immediately Invoked Function Expressions [IIFE]
+
+- wrap the function with a function making it a function expression. and it's called as a value.
+
+### Block Scoping
+
+- This scope restricts the variable that is declared inside a specific block, from access by the outside of the block.
+
+### Closure
+
+- `Closure` is when a function remember the variables outside of it, even if you pass that function elsewhere.
+
+### this
+
+- this references the execution context for that call, determined by how the function was called.
+
+```js
+this.fn
 ```
