@@ -1,5 +1,5 @@
 ---
-title: Deep Javascript Foundation by Kyle Simpson [Programming Primer]
+title: Getting Started with JS v2 by Kyle Simpson [Programming Primer]
 date: '2023-07-11'
 tags: ['Javascript', 'Kyle Simpson', 'Course', 'Frontend Masters']
 draft: false
