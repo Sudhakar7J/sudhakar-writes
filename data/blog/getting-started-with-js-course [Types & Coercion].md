@@ -23,25 +23,33 @@ canonicalUrl:
 
 1. Falsy
 
+```js
 - “”
 - 0, -0
 - null
 - NaN
 - false
 - undefined
+```
 
 2. Truthy
 
+```js
 - “foo”
 - 23
 - { a:1 }
 - [1,3]
 - true
-- function(){..}
+- function()
 - ...
+```
 
 ### Equality == vs ===
 
 - == allows coercion (types different)
 
 - === disallows coercion (types same)
+
+```
+
+```
